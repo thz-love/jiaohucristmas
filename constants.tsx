@@ -1,0 +1,17 @@
+
+export const COLORS = {
+    CHAMPAGNE_GOLD: 0xd4af37,
+    CREAM_WHITE: 0xfceea7,
+    CHRISTMAS_RED: 0x8b0000,
+    DEEP_GREEN: 0x013220,
+    GLOW_ORANGE: 0xffa500,
+    ICE_BLUE: 0xadd8e6
+};
+
+export const PARTICLE_CONFIG = {
+    TOTAL_MAIN: 1500,
+    TOTAL_DUST: 2500,
+    TRANSITION_SPEED: 0.05,
+    TREE_MAX_RADIUS: 12,
+    TREE_HEIGHT: 25
+};

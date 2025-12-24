@@ -1,0 +1,7 @@
+{
+  "name": "Holiday Magic 3D Christmas Tree",
+  "description": "A high-end interactive 3D Christmas Tree experience using Three.js and MediaPipe for hand gesture control. Features procedural particles, custom shaders, and real-time hand tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
